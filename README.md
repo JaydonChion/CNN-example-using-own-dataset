@@ -1,4 +1,4 @@
-# Convolutional-Neural-Network-Deep-Learning-Using-Own-Dataset
+# CNN-Example-Training-Using-Own-Dataset
 Introduction to CNN for beginers
 Tired of training using MNIST. This tutorial is about training own dataset using Keras (Tensorflow backend)
 
