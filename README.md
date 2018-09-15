@@ -1,5 +1,5 @@
 # CNN-Example-Training-Using-Own-Dataset
-Introduction to CNN for beginers
+
 Tired of training using MNIST. This tutorial is about training own dataset using Keras (Tensorflow backend)
 
 The data set is obtained from Kaggle.com:
